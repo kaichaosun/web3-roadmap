@@ -9,4 +9,4 @@ The Road Leads to Web3.
 
 -----
 
-Submit a new roadmap via [Github](https://github.com/kaichaosun/web3-roadmap).
+Submit a new roadmap via [Github](https://github.com/kaichaosun/web3-roadmap) in alphabetical order.
