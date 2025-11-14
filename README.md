@@ -7,6 +7,8 @@ The Road Leads to Web3.
 - [Solana](https://www.solanaroadmap.com/): Increase Bandwidth, Reduce Latency.
 - [Starknet](https://www.starknetroadmap.com/): Just Prove It.
 - Sui: Frictionless Global Coordination via Intelligent Assets.
+- [Tor](https://www.torproject.org/): Browse Privately, Explore Freely. Defend yourself against tracking and surveillance. Circumvent censorship.
+- ZeroNET, Decentralized web platform using Bitcoin cryptography and BitTorrent network.
 
 -----
 
